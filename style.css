@@ -1,0 +1,41 @@
+.main {
+    height: 550px;
+    width: 500px;
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 8px;
+    margin-left: 30px;
+}
+.user-input {
+    height: 50px;
+    width: 250px;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: antiquewhite;
+    margin-top: 100px;
+}
+.button{
+    height: 40px;
+    width: 70px;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: antiquewhite;
+    color: white;
+    background-color: rgb(59, 59, 179);
+}
+.error-message {
+     color: #f62c3b;
+     font-size: 14px;
+}
+.random {
+    height: 30px;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+  
+    
+
+
+  
+
+}
